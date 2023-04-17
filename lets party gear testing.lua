@@ -1,4 +1,5 @@
 --[[
+Let's party gear testing
 ███    ███ ██ ██       ██  ██   ██ ███████ ██████  ██████          
 ████  ████ ██ ██      ████████ ███ ██           ██      ██         
 ██ ████ ██ ██ ██       ██  ██   ██ ███████  █████   █████          
@@ -6,6 +7,8 @@
 ██      ██ ██ ███████  ██  ██   ██ ███████ ███████ ███████         
 Deobfuscated by Mil#1522 (359114939538997250)
 this script was ass to begin with. Took me 10 minutes to deobfuscate
+
+originally made by Kosovo#3784 (big skid btw)
 
 Works on this game: https://www.roblox.com/games/391104146/Lets-Party-Gear-Testing
 --]]
